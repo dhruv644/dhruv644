@@ -1,4 +1,4 @@
-![logo](https://github.com/dhruv644/dhruv644/blob/main/github-header-image.png)
+![logo](https://github.com/dhruv644/dhruv644/blob/main/github-header-image%20(3).png)
 <h1 align="center">Hi 👋, I'm Dhruv Sagar</h1>
 <h3 align="center">Passionate Analyst Empowering Data Insights</h3>
 
