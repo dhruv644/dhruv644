@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv644&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv644" /> </p>
 
-- 🌱 Certified Data Analyst from course -  **Advance Certification in Data Science From Analytixlabs**
+- 🌱 Certified **Data Analyst** by -  **Advance Certification in Data Science From Analytixlabs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dhruv644?tab=repositories](https://github.com/dhruv644?tab=repositories)
 
