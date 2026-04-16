@@ -11,9 +11,15 @@
 - 📫 How to reach me **sagardhruv957@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/contactdsgr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruv sagar" height="30" width="40" /></a>
-<a href="https://instagram.com/dhruv.sagarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruvsaagxr_" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/contactdsgr/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+</a>
+
+<a href="https://instagram.com/dhruv.sagrr" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" width="40"/>
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
